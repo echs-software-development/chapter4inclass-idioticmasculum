@@ -7,6 +7,6 @@ public class Prob3 {
 
    int code = scan.nextInt();
    System.out.println((char)code);
-
+  //It casted char; char is a number and a letter
   } 
 }
